@@ -2,6 +2,10 @@
 
 ## Preview
 ![DrawFractal_README](https://user-images.githubusercontent.com/35257391/227418049-560c5d9f-987e-489a-a46c-573a5f5ea218.png)
+- color calculation with gpu fragment shader
+- float precision
+- resizable widget
+
 ### Hyper Parameters
 - exponent X
 - constant C
