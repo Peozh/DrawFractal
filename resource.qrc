@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>fragmentShaderSource.frag</file>
+        <file>DrawFractal_README.png</file>
     </qresource>
 </RCC>
